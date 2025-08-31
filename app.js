@@ -8,7 +8,6 @@ const items = [
   { name: 'Carrot', type: 'veg',   qty: 2, done: false },
   { name: 'Bread',  type: 'other', qty: 1, done: false },
 ];
-
 // ---------- DOM references ----------
 const listEl   = document.getElementById('list');
 const stats = {
